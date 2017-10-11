@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40" started-at="2017-10-11T05:35:12Z" finished-at="2017-10-11T05:35:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40" started-at="2017-10-11T05:35:12Z" finished-at="2017-10-11T05:35:12Z">
+      <class name="mx.jzab.edu.refactoring.movies.MovieRentalTestMain">
+        <test-method status="PASS" signature="before()[pri:0, instance:mx.jzab.edu.refactoring.movies.MovieRentalTestMain@7ac7a4e4]" name="before" is-config="true" duration-ms="8" started-at="2017-10-11T00:35:12Z" finished-at="2017-10-11T00:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testCustomerName()[pri:0, instance:mx.jzab.edu.refactoring.movies.MovieRentalTestMain@7ac7a4e4]" name="testCustomerName" duration-ms="5" started-at="2017-10-11T00:35:12Z" finished-at="2017-10-11T00:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerName -->
+        <test-method status="PASS" signature="testMovieName()[pri:0, instance:mx.jzab.edu.refactoring.movies.MovieRentalTestMain@7ac7a4e4]" name="testMovieName" duration-ms="1" started-at="2017-10-11T00:35:12Z" finished-at="2017-10-11T00:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMovieName -->
+        <test-method status="PASS" signature="testRentalAmount_children_lessThan3()[pri:0, instance:mx.jzab.edu.refactoring.movies.MovieRentalTestMain@7ac7a4e4]" name="testRentalAmount_children_lessThan3" duration-ms="1" started-at="2017-10-11T00:35:12Z" finished-at="2017-10-11T00:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRentalAmount_children_lessThan3 -->
+        <test-method status="PASS" signature="testRentalAmount_children_moreThan3()[pri:0, instance:mx.jzab.edu.refactoring.movies.MovieRentalTestMain@7ac7a4e4]" name="testRentalAmount_children_moreThan3" duration-ms="1" started-at="2017-10-11T00:35:12Z" finished-at="2017-10-11T00:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRentalAmount_children_moreThan3 -->
+        <test-method status="PASS" signature="testRentalAmount_newRelease()[pri:0, instance:mx.jzab.edu.refactoring.movies.MovieRentalTestMain@7ac7a4e4]" name="testRentalAmount_newRelease" duration-ms="0" started-at="2017-10-11T00:35:12Z" finished-at="2017-10-11T00:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRentalAmount_newRelease -->
+        <test-method status="PASS" signature="testRentalAmount_regular_lessThan2()[pri:0, instance:mx.jzab.edu.refactoring.movies.MovieRentalTestMain@7ac7a4e4]" name="testRentalAmount_regular_lessThan2" duration-ms="1" started-at="2017-10-11T00:35:12Z" finished-at="2017-10-11T00:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRentalAmount_regular_lessThan2 -->
+        <test-method status="PASS" signature="testRentalAmount_regular_moreThan2()[pri:0, instance:mx.jzab.edu.refactoring.movies.MovieRentalTestMain@7ac7a4e4]" name="testRentalAmount_regular_moreThan2" duration-ms="1" started-at="2017-10-11T00:35:12Z" finished-at="2017-10-11T00:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRentalAmount_regular_moreThan2 -->
+        <test-method status="PASS" signature="testRentalDays()[pri:0, instance:mx.jzab.edu.refactoring.movies.MovieRentalTestMain@7ac7a4e4]" name="testRentalDays" duration-ms="1" started-at="2017-10-11T00:35:12Z" finished-at="2017-10-11T00:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRentalDays -->
+        <test-method status="PASS" signature="testRentalMovie()[pri:0, instance:mx.jzab.edu.refactoring.movies.MovieRentalTestMain@7ac7a4e4]" name="testRentalMovie" duration-ms="1" started-at="2017-10-11T00:35:12Z" finished-at="2017-10-11T00:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRentalMovie -->
+      </class> <!-- mx.jzab.edu.refactoring.movies.MovieRentalTestMain -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
